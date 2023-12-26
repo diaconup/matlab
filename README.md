@@ -14,6 +14,12 @@ Tuning the 'mean square error' for the best fit possible.
 A dataset is given, measured on an unknown dynamic system with one input and one output.
 I developed a black-box model for this system, using a polynomial, nonlinear ARX model.
 
+<br>
+------------------------------
+<br>
+System Theory 1 + 2 <br>
+Some laboratories also from System Theory
+
 
 
 
